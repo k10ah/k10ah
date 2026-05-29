@@ -1,265 +1,398 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D6D,C9184A,590D22&height=120&section=header&text=KEERTHANA%20K&fontSize=38&fontColor=fff&fontAlignY=60&animation=fadeIn&fontFamily=Courier%20New" />
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0B0B0F,40:1a0a2e,100:0B0B0F&height=260&section=header&text=KEERTHANA%20K&fontSize=72&fontColor=FF4D9D&animation=twinkling&fontAlignY=45&stroke=6EE7FF&strokeWidth=2&desc=DATA%20SCIENCE%20%20%C2%B7%20%20SOFTWARE%20ENGINEERING%20%20%C2%B7%20%20AI%20/%20ML&descColor=6EE7FF&descSize=15&descAlignY=68)
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1200&color=FFB6D9&center=true&vCenter=true&width=440&lines=Building.;Learning.;Experimenting." />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=16&pause=1000&color=FF4D6D&center=true&vCenter=true&width=480&lines=Data+Science+%2F+Software+Engineering+%2F+AI-ML;Building.+Learning.+Experimenting.)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-0B0B0F?style=for-the-badge&labelColor=0B0B0F&color=0B0B0F&logoColor=FF4D9D)](YOUR_PORTFOLIO_LINK)&ensp;[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0B0B0F?style=for-the-badge&labelColor=0B0B0F&color=0B0B0F&logoColor=6EE7FF)](YOUR_LINKEDIN_LINK)&ensp;[![Email](https://img.shields.io/badge/◈_EMAIL-0B0B0F?style=for-the-badge&labelColor=0B0B0F&color=0B0B0F&logoColor=FFB6D9)](mailto:keerthanakumar2106@gmail.com)&ensp;[![Resume](https://img.shields.io/badge/◈_RESUME-0B0B0F?style=for-the-badge&labelColor=0B0B0F&color=0B0B0F&logoColor=FF4D9D)](YOUR_RESUME_LINK)
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&height=2&section=header" width="100%"/>
 
----
+<br>
 
-<br/>
+<!---------------------------------------------------------------------------->
+<!--  STATUS                                                                  -->
+<!---------------------------------------------------------------------------->
 
-## STATUS
+<div align="center">
 
-```diff
-+ Currently Building
-+ Exploring New Technologies
-+ Open To Collaboration
-! More Projects Loading...
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ◈  SYSTEM STATUS  ────────────────────────────────────────────║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  +  Currently Building                                           ║
+║  +  Exploring New Technologies                                   ║
+║  +  Open To Collaboration                                        ║
+║  !  More Projects Loading ...                                    ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<br/>
+</div>
 
----
+<br>
 
-<br/>
+<!---------------------------------------------------------------------------->
+<!--  SKILL TREE                                                               -->
+<!---------------------------------------------------------------------------->
 
-## SKILL TREE
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ◈  SKILL TREE  ───────────────── ▓ unlocked  ·  ░ on roadmap  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td width="50%" valign="top">
 
-**LANGUAGES**
 ```
-[+] Python
-[+] Java
-[ ] C++
-[ ] JavaScript
-[ ] Go
-```
+[ LANGUAGES ]─────────────────────────────────
+  ▓  Python          ████████░░  proficient
+  ▓  Java            ██████░░░░  intermediate
+  ░  C++             ░░░░░░░░░░  ··· locked
+  ░  JavaScript      ░░░░░░░░░░  ··· locked
+  ░  Go              ░░░░░░░░░░  ··· locked
 
-</td>
-<td valign="top" width="25%">
-
-**DATA**
-```
-[+] Pandas
-[+] NumPy
-[+] SQL
-[ ] Spark
-[ ] Airflow
-[ ] Kafka
+[ DATA ]──────────────────────────────────────
+  ▓  Pandas          ████████░░  proficient
+  ▓  NumPy           ████████░░  proficient
+  ▓  SQL             ██████░░░░  intermediate
+  ░  Spark           ░░░░░░░░░░  ··· locked
+  ░  Airflow         ░░░░░░░░░░  ··· locked
+  ░  Kafka           ░░░░░░░░░░  ··· locked
 ```
 
 </td>
-<td valign="top" width="25%">
+<td width="50%" valign="top">
 
-**AI / ML**
 ```
-[+] Machine Learning
-[+] OpenCV
-[ ] Deep Learning
-[ ] MLOps
-[ ] LLM Applications
-```
+[ AI / ML ]───────────────────────────────────
+  ▓  Machine Learning  ██████░░░░  active
+  ▓  OpenCV            ████░░░░░░  training
+  ░  Deep Learning     ░░░░░░░░░░  ··· locked
+  ░  MLOps             ░░░░░░░░░░  ··· locked
+  ░  LLM Applications  ░░░░░░░░░░  ··· locked
 
-</td>
-<td valign="top" width="25%">
-
-**SOFTWARE**
-```
-[ ] Backend Development
-[ ] System Design
-[ ] Cloud Engineering
-[ ] DevOps
+[ SOFTWARE ]──────────────────────────────────
+  ░  Backend Development  ░░░░░░░░░░  queued
+  ░  System Design        ░░░░░░░░░░  queued
+  ░  Cloud Engineering    ░░░░░░░░░░  queued
+  ░  DevOps               ░░░░░░░░░░  queued
 ```
 
 </td>
 </tr>
 </table>
 
-<br/>
+<br>
 
----
+<!---------------------------------------------------------------------------->
+<!--  PROJECT HUB                                                              -->
+<!---------------------------------------------------------------------------->
 
-<br/>
+<div align="center">
 
-## PROJECT HUB
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ◈  PROJECT HUB  ──────────────────────────────────────────────║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### `PROJECT 01`
+<div align="center">
 
-```yaml
-Name        :
-Description :
-Stack       :
-Status      :
+```
+┌──────────────────────────────────────┐
+│  ◈  PROJECT 01                       │
+│  ─────────────────────────────────── │
+│                                      │
+│  Name        ·  [ YOUR PROJECT ]     │
+│  Description ·  [ add here ]         │
+│  Stack       ·  [ add here ]         │
+│  Status      ·  [ add here ]         │
+│                                      │
+└──────────────────────────────────────┘
 ```
 
+![](https://img.shields.io/badge/STATUS-PENDING-555555?style=flat-square&labelColor=0B0B0F)
+&nbsp;[`→ repo`](#)
+
+</div>
 </td>
+
 <td width="50%" valign="top">
 
-### `PROJECT 02`
+<div align="center">
 
-```yaml
-Name        : MediAssist AI
-Description : An interactive bot that scans blood
-              analysis reports, draws insights, and
-              answers health-related queries. Being
-              built toward a mobile application
-              accessible to everyone.
-Stack       : NLP, OCR, Streamlit, Groq API
-Status      : Ongoing
+```
+┌──────────────────────────────────────┐
+│  ◈  PROJECT 02  ·  MEDIASSIST AI     │
+│  ─────────────────────────────────── │
+│                                      │
+│  Interactive bot that scans blood    │
+│  analysis reports, draws insights    │
+│  and answers related questions.      │
+│  Targeting mobile deployment.        │
+│                                      │
+│  Stack   ·  NLP · OCR · Streamlit   │
+│             GroqAPI                  │
+│  Status  ·  ONGOING                  │
+│                                      │
+└──────────────────────────────────────┘
 ```
 
+![](https://img.shields.io/badge/STATUS-ONGOING-FF4D9D?style=flat-square&labelColor=0B0B0F)
+&nbsp;[`→ repo`](#)
+
+</div>
 </td>
+
 </tr>
 <tr>
+
 <td width="50%" valign="top">
 
-### `PROJECT 03`
+<div align="center">
 
-```yaml
-Name        : SpaceX Data Analytics
-Description : End-to-end data science project
-              covering web scraping, EDA with SQL,
-              interactive dashboards and maps, with
-              trained ML models for prediction and
-              classification.
-Stack       : Python, SQL, NumPy, Pandas,
-              Plotly, Folium, Matplotlib, Seaborn
-Status      : Completed — Capstone Project
+```
+┌──────────────────────────────────────┐
+│  ◈  PROJECT 03  ·  SPACEX ANALYTICS  │
+│  ─────────────────────────────────── │
+│                                      │
+│  End-to-end data science project —   │
+│  web scraping, EDA with SQL,         │
+│  interactive dashboards and maps,    │
+│  ML for prediction/classification.   │
+│                                      │
+│  Stack   ·  Python · SQL · Pandas   │
+│             Plotly · Folium · ML     │
+│  Status  ·  COMPLETED                │
+│                                      │
+└──────────────────────────────────────┘
+```
+
+![](https://img.shields.io/badge/STATUS-COMPLETED-6EE7FF?style=flat-square&labelColor=0B0B0F)
+&nbsp;[`→ repo`](#)
+
+</div>
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+```
+┌──────────────────────────────────────┐
+│  ◈  PROJECT 04  ·  TREMOR DETECT     │
+│  ─────────────────────────────────── │
+│                                      │
+│  Real-time signal acquisition from   │
+│  MPU6050. Classifies tremor vs       │
+│  normal events via Random Forest,    │
+│  served as a web application.        │
+│                                      │
+│  Stack   ·  Python · JS · FastAPI   │
+│             HTML5 · CSS · ML         │
+│  Status  ·  COMPLETED                │
+│                                      │
+└──────────────────────────────────────┘
+```
+
+![](https://img.shields.io/badge/STATUS-COMPLETED-6EE7FF?style=flat-square&labelColor=0B0B0F)
+&nbsp;[`→ repo`](#)
+
+</div>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!---------------------------------------------------------------------------->
+<!--  PROJECT UNIVERSE                                                         -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ◈  PROJECT UNIVERSE  ─────────────────────────────────────────║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+```
+[ SOFTWARE ]
+│
+├── Project
+├── Project
+└── Project
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-### `PROJECT 04`
+```
+[ DATA SCIENCE ]
+│
+├── SpaceX Analytics
+├── House Price Dashboard
+└── Project
+```
 
-```yaml
-Name        : Hypoglycemic Tremor Detection
-Description : Real-time signal acquisition from
-              MPU6050 sensor; classifies tremor vs
-              normal events using Random Forest,
-              exposed as a web application.
-Stack       : Python, JavaScript, HTML5, CSS,
-              ML, FastAPI
-Status      : Completed
-              Future — Multimodal signals,
-              Mobile app, Alert system
+</td>
+<td width="25%" valign="top">
+
+```
+[ AI / ML ]
+│
+├── MediAssist AI
+├── Posture AI Pro
+└── Project
+```
+
+</td>
+<td width="25%" valign="top">
+
+```
+[ EXPERIMENTS ]
+│
+├── Image Segmentation
+├── Signal Processing
+└── Project
 ```
 
 </td>
 </tr>
 </table>
 
-<br/>
+<br>
 
----
-
-<br/>
-
-## PROJECT UNIVERSE
-
-```
-ROOT
-  │
-  ├── SOFTWARE
-  │     ├── Project
-  │     ├── Project
-  │     └── Project
-  │
-  ├── DATA SCIENCE
-  │     ├── SpaceX Data Analytics
-  │     ├── House Price Analysis Dashboard
-  │     └── Project
-  │
-  ├── AI
-  │     ├── MediAssist
-  │     ├── Posture AI Pro  (Computer Vision)
-  │     └── Project
-  │
-  └── EXPERIMENTS
-        ├── Image Processing & Segmentation
-        └── Signal Processing
-```
-
-<br/>
-
----
-
-<br/>
-
-## RESEARCH
-
-```
-  [ ]  Research
-  [ ]  Experiments
-  [ ]  Publications
-  [ ]  Open Source
-  [ ]  Ideas
-```
-
-<br/>
-
----
-
-<br/>
-
-## QUEST LOG
-
-- [ ] Build Flagship Project
-- [ ] Explore System Design
-- [ ] Publish Technical Content
-- [ ] Contribute To Open Source
-
-<br/>
-
----
-
-<br/>
-
-## COMMAND CENTER
+<!---------------------------------------------------------------------------->
+<!--  RESEARCH LAB                                                             -->
+<!---------------------------------------------------------------------------->
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF4D6D&icon_color=FF4D6D&text_color=CCCCCC&border_color=FF4D6D&hide_border=false&include_all_commits=true" />
-</a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FF4D6D&text_color=CCCCCC&border_color=FF4D6D&hide_border=false" />
-</a>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ◈  RESEARCH LAB  ─────────────────────────────────────────────║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  [ ]  Research                                                   ║
+║  [ ]  Experiments                                                ║
+║  [ ]  Publications                                               ║
+║  [ ]  Open Source                                                ║
+║  [ ]  Ideas                                                      ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-<br/>
+<br>
 
----
-
-<br/>
-
-## LINKS
-
-```yaml
-Portfolio : 
-LinkedIn  : 
-Email     : keerthanakumar2106@gmail.com
-Resume    : 
-```
-
-<br/>
+<!---------------------------------------------------------------------------->
+<!--  QUEST LOG                                                                -->
+<!---------------------------------------------------------------------------->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D6D,C9184A,590D22&height=80&section=footer" />
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ◈  QUEST LOG  ─────────────────────────────────────────────── ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  MAIN                                                            ║
+║  [ ]  Build Flagship Project                                     ║
+║  [ ]  Explore System Design                                      ║
+║                                                                  ║
+║  SIDE                                                            ║
+║  [ ]  Publish Technical Content                                  ║
+║  [ ]  Contribute To Open Source                                  ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+<!---------------------------------------------------------------------------->
+<!--  COMMAND CENTER  —  replace YOUR_USERNAME with your GitHub handle        -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ◈  COMMAND CENTER  ───────────────────────────────────────────║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0B0F&title_color=FF4D9D&icon_color=6EE7FF&text_color=CFCFCF&rank_icon=github)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0B0F&title_color=FF4D9D&text_color=CFCFCF)
+
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0B0B0F&ring=FF4D9D&fire=FFB6D9&currStreakLabel=6EE7FF&sideLabels=6EE7FF&dates=CFCFCF)
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0B0B0F&color=6EE7FF&line=FF4D9D&point=FFB6D9&area=true&hide_border=true)
+
+</div>
+
+<br>
+
+<!---------------------------------------------------------------------------->
+<!--  LINKS                                                                    -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ◈  LINKS  ─────────────────────────────────────────────────── ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  Portfolio  ·  [ YOUR LINK ]                                     ║
+║  LinkedIn   ·  [ YOUR LINK ]                                     ║
+║  Email      ·  keerthanakumar2106@gmail.com                      ║
+║  Resume     ·  [ YOUR LINK ]                                     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:0B0B0F,40:1a0a2e,100:0B0B0F&height=120&section=footer&text=always%20building.&fontSize=26&fontColor=FF4D9D&animation=twinkling&fontAlignY=55)
+
+<div align="center">
+
+`last updated · MONTH YEAR` &nbsp;·&nbsp; `mission: active`
 
 </div>
