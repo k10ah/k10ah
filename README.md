@@ -1,260 +1,325 @@
-<div align="center"> 
-# KEERTHANA K 
-### DATA SCIENCE • SOFTWARE ENGINEERING • AI/ML 
-  
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=FF4D9D&center=true&vCenter=true&width=500&lines=Building.;Learning.;Experimenting." /> 
-</div> 
 
-<br> 
-<div align="center"> ![divider](https://capsule-render.vercel.app/api?type=rect\&color=FF4D9D\&height=2\&section=header) 
+
+````markdown
+<div align="center">
+
+<img src="YOUR_BANNER_IMAGE_LINK" width="100%"/>
+
+# KEERTHANA K
+
+### DATA SCIENCE • SOFTWARE ENGINEERING • AI / ML
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=FF4D9D&center=true&vCenter=true&width=600&lines=Building.;Learning.;Experimenting.;Creating." />
+
+<br>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-FF4D9D?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:keerthanakumar2106@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4AAA?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-6EE7FF?style=for-the-badge&logo=readthedocs&logoColor=black"/>
+</a>
 
 </div>
-## STATUS
-
-```diff
-+ Currently Building
-+ Exploring New Technologies
-+ Open To Collaboration
-! More Projects Loading...
-```
-
-<br/>
 
 ---
 
-<br/>
-
-## SKILL TREE
+# FEATURED PROJECT
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td width="100%">
 
-**LANGUAGES**
-```
-[+] Python
-[+] Java
-[ ] C++
-[ ] JavaScript
-[ ] Go
-```
+```yaml
+Name        : MediAssist AI
 
-</td>
-<td valign="top" width="25%">
+Description : Interactive medical assistant capable
+              of scanning blood reports, extracting
+              information and answering user queries.
 
-**DATA**
-```
-[+] Pandas
-[+] NumPy
-[+] SQL
-[ ] Spark
-[ ] Airflow
-[ ] Kafka
-```
+Tech Stack  : NLP
+              OCR
+              Streamlit
+              Groq API
 
-</td>
-<td valign="top" width="25%">
-
-**AI / ML**
-```
-[+] Machine Learning
-[+] OpenCV
-[ ] Deep Learning
-[ ] MLOps
-[ ] LLM Applications
-```
-
-</td>
-<td valign="top" width="25%">
-
-**SOFTWARE**
-```
-[ ] Backend Development
-[ ] System Design
-[ ] Cloud Engineering
-[ ] DevOps
-```
+Status      : Ongoing
+````
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
+
+# TECH STACK
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql"/>
+
+### Data Science
+
+<img src="https://skillicons.dev/icons?i=pycharm"/>
+
+### Software Engineering
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+### Learning Next
+
+<img src="https://skillicons.dev/icons?i=docker,aws,react,nodejs"/>
+
+</div>
 
 ---
 
-<br/>
-
-## PROJECT HUB
+# PROJECT HUB
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### `PROJECT 01`
-
-```yaml
-Name        :
-Description :
-Stack       :
-Status      :
-```
-
-</td>
-<td width="50%" valign="top">
-
-### `PROJECT 02`
+### PROJECT 01
 
 ```yaml
 Name        : MediAssist AI
-Description : An interactive bot that scans blood
-              analysis reports, draws insights, and
-              answers health-related queries. Being
-              built toward a mobile application
-              accessible to everyone.
-Stack       : NLP, OCR, Streamlit, Groq API
+
+Description : Medical report analysis assistant
+
+Tech Stack  : NLP
+              OCR
+              Streamlit
+              Groq API
+
 Status      : Ongoing
 ```
 
 </td>
-</tr>
-<tr>
+
 <td width="50%" valign="top">
 
-### `PROJECT 03`
+### PROJECT 02
 
 ```yaml
 Name        : SpaceX Data Analytics
+
 Description : End-to-end data science project
-              covering web scraping, EDA with SQL,
-              interactive dashboards and maps, with
-              trained ML models for prediction and
-              classification.
-Stack       : Python, SQL, NumPy, Pandas,
-              Plotly, Folium, Matplotlib, Seaborn
-Status      : Completed — Capstone Project
+              with dashboards and prediction
+
+Tech Stack  : Python
+              SQL
+              Pandas
+              NumPy
+              Plotly
+              Folium
+
+Status      : Completed
 ```
 
 </td>
+
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
-### `PROJECT 04`
+### PROJECT 03
 
 ```yaml
 Name        : Hypoglycemic Tremor Detection
-Description : Real-time signal acquisition from
-              MPU6050 sensor; classifies tremor vs
-              normal events using Random Forest,
-              exposed as a web application.
-Stack       : Python, JavaScript, HTML5, CSS,
-              ML, FastAPI
+
+Description : Real-time tremor classification
+              using MPU6050 sensor data
+
+Tech Stack  : Python
+              FastAPI
+              HTML
+              CSS
+              JavaScript
+
 Status      : Completed
-              Future — Multimodal signals,
-              Mobile app, Alert system
 ```
 
 </td>
+
+<td width="50%" valign="top">
+
+### PROJECT 04
+
+```yaml
+Name        :
+
+Description :
+
+Tech Stack  :
+
+Status      :
+```
+
+</td>
+
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### PROJECT 05
+
+```yaml
+Name        :
+
+Description :
+
+Tech Stack  :
+
+Status      :
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### PROJECT 06
+
+```yaml
+Name        :
+
+Description :
+
+Tech Stack  :
+
+Status      :
+```
+
+</td>
+
+</tr>
+
 </table>
 
-<br/>
-
 ---
 
-<br/>
+# PROJECT UNIVERSE
 
-## PROJECT UNIVERSE
-
-```
+```text
 ROOT
-  │
-  ├── SOFTWARE
-  │     ├── Project
-  │     ├── Project
-  │     └── Project
-  │
-  ├── DATA SCIENCE
-  │     ├── SpaceX Data Analytics
-  │     ├── House Price Analysis Dashboard
-  │     └── Project
-  │
-  ├── AI
-  │     ├── MediAssist
-  │     ├── Posture AI Pro  (Computer Vision)
-  │     └── Project
-  │
-  └── EXPERIMENTS
-        ├── Image Processing & Segmentation
-        └── Signal Processing
+│
+├── SOFTWARE ENGINEERING
+│   ├── Future Project
+│   ├── Future Project
+│   └── Future Project
+│
+├── DATA SCIENCE
+│   ├── SpaceX Analytics
+│   ├── Future Project
+│   └── Future Project
+│
+├── AI / ML
+│   ├── MediAssist AI
+│   ├── Future Project
+│   └── Future Project
+│
+└── EXPERIMENTS
+    ├── Signal Processing
+    ├── Image Processing
+    └── Computer Vision
 ```
-
-<br/>
 
 ---
 
-<br/>
+# RESEARCH & EXPLORATION
 
-## RESEARCH
-
+```text
+[ ] Research Projects
+[ ] Publications
+[ ] Open Source Contributions
+[ ] Computer Vision
+[ ] Machine Learning
+[ ] Healthcare AI
 ```
-  [ ]  Research
-  [ ]  Experiments
-  [ ]  Publications
-  [ ]  Open Source
-  [ ]  Ideas
-```
-
-<br/>
 
 ---
 
-<br/>
+# GITHUB ANALYTICS
 
-## QUEST LOG
+<div align="center">
 
-- [ ] Build Flagship Project
-- [ ] Explore System Design
-- [ ] Publish Technical Content
-- [ ] Contribute To Open Source
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
 
-<br/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical"/>
+
+</div>
 
 ---
 
-<br/>
-</div>
-<br>
-<!---------------------------------------------------------------------------->
-<!--  COMMAND CENTER  —  replace YOUR_USERNAME with your GitHub handle        -->
-<!---------------------------------------------------------------------------->
+# CURRENT FOCUS
+
+```text
+• Software Engineering
+
+• Data Science
+
+• Machine Learning
+
+• Computer Vision
+
+• Building End-to-End Projects
+```
+
+---
+
+# CONNECT
+
 <div align="center">
-╔══════════════════════════════════════════════════════════════════╗
-║  ◈  COMMAND CENTER  ───────────────────────────────────────────║
-╚══════════════════════════════════════════════════════════════════╝
-Show Image
- 
-Show Image
-Show Image
-Show Image
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-FF4D9D?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/keerthana-k-b20061306/)">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:keerthanakumar2106@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4AAA?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-6EE7FF?style=for-the-badge&logo=readthedocs&logoColor=black"/>
+</a>
+
 </div>
-<br>
-<!---------------------------------------------------------------------------->
-<!--  LINKS                                                                    -->
-<!---------------------------------------------------------------------------->
+
+---
+
 <div align="center">
-╔══════════════════════════════════════════════════════════════════╗
-║  ◈  LINKS  ─────────────────────────────────────────────────── ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  Portfolio  ·  [ YOUR LINK ]                                     ║
-║  LinkedIn   ·  [ YOUR LINK ]                                     ║
-║  Email      ·  keerthanakumar2106@gmail.com                      ║
-║  Resume     ·  [ YOUR LINK ]                                     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=FF4D9D&section=footer"/>
+
+DATA • SOFTWARE • AI
+
 </div>
-<br>
-Show Image
-<div align="center">
-last updated · MONTH YEAR  ·  mission: active
-</div>
+```
