@@ -1,12 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D6D,C9184A,590D22&height=120&section=header&text=KEERTHANA%20K&fontSize=38&fontColor=fff&fontAlignY=60&animation=fadeIn&fontFamily=Courier%20New" />
-
-<br/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=16&pause=1000&color=FF4D6D&center=true&vCenter=true&width=480&lines=Data+Science+%2F+Software+Engineering+%2F+AI-ML;Building.+Learning.+Experimenting.)
-
-</div>
+<div align="center"> # KEERTHANA K ### DATA SCIENCE • SOFTWARE ENGINEERING • AI/ML <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=FF4D9D&center=true&vCenter=true&width=500&lines=Building.;Learning.;Experimenting." /> </div> <br> <div align="center"> ![divider](https://capsule-render.vercel.app/api?type=rect\&color=FF4D9D\&height=2\&section=header) </div> 
 
 <br/>
 
@@ -227,39 +219,39 @@ ROOT
 ---
 
 <br/>
-
-## COMMAND CENTER
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF4D6D&icon_color=FF4D6D&text_color=CCCCCC&border_color=FF4D6D&hide_border=false&include_all_commits=true" />
-</a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FF4D6D&text_color=CCCCCC&border_color=FF4D6D&hide_border=false" />
-</a>
-
 </div>
-
-<br/>
-
----
-
-<br/>
-
-## LINKS
-
-```yaml
-Portfolio : 
-LinkedIn  : 
-Email     : keerthanakumar2106@gmail.com
-Resume    : 
-```
-
-<br/>
-
+<br>
+<!---------------------------------------------------------------------------->
+<!--  COMMAND CENTER  —  replace YOUR_USERNAME with your GitHub handle        -->
+<!---------------------------------------------------------------------------->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D6D,C9184A,590D22&height=80&section=footer" />
-
+╔══════════════════════════════════════════════════════════════════╗
+║  ◈  COMMAND CENTER  ───────────────────────────────────────────║
+╚══════════════════════════════════════════════════════════════════╝
+Show Image
+ 
+Show Image
+Show Image
+Show Image
+</div>
+<br>
+<!---------------------------------------------------------------------------->
+<!--  LINKS                                                                    -->
+<!---------------------------------------------------------------------------->
+<div align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║  ◈  LINKS  ─────────────────────────────────────────────────── ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  Portfolio  ·  [ YOUR LINK ]                                     ║
+║  LinkedIn   ·  [ YOUR LINK ]                                     ║
+║  Email      ·  keerthanakumar2106@gmail.com                      ║
+║  Resume     ·  [ YOUR LINK ]                                     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+</div>
+<br>
+Show Image
+<div align="center">
+last updated · MONTH YEAR  ·  mission: active
 </div>
