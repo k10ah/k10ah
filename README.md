@@ -1,355 +1,401 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=FF4D9D&center=true&vCenter=true&width=700&lines=Keerthana+K;Building+Ideas+Into+Reality;Software+%7C+Data+%7C+AI" />
-
 <div align="center">
 
-### ✦ Building software, exploring data, and creating things that matter ✦
-
-<img src="https://img.shields.io/badge/Status-Building-FF4D9D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Learning-Everyday-6EE7FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20To-Collaboration-FFFFFF?style=for-the-badge&labelColor=111111" />
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0B0B0F,50:1a0a2e,100:0B0B0F&height=280&section=header&text=KEERTHANA%20K&fontSize=70&fontColor=FF4D9D&animation=twinkling&fontAlignY=45&stroke=6EE7FF&strokeWidth=2&desc=◈%20Software%20·%20AI%20·%20Data%20·%20Vision%20◈&descColor=FFB6D9&descSize=18&descAlignY=68)
 
 </div>
 
----
-
-# 🕸️ SYSTEM BOOT
-
-```bash
-> whoami
-
-Keerthana K
-
-> current_mode
-
-Building • Learning • Experimenting
-
-> focus_areas
-
-Software Engineering
-Data Science
-Machine Learning
-Computer Vision
-Analytics
-
-> mission
-
-Turn ideas into products.
-```
-
----
-
-# 🌸 ABOUT
-
-I enjoy building things that sit at the intersection of technology, creativity, and problem-solving.
-
-Currently exploring:
-
-* 🩷 Software Development
-* 🩷 Machine Learning
-* 🩷 Data Science
-* 🩷 Computer Vision
-* 🩷 Analytics Engineering
-* 🩷 Open Source
-
-When I'm not coding, you'll probably find me reading, researching, planning future projects, or diving into something completely new.
-
----
-
-# 🎮 SKILL TREE
-
-## Languages
-
-```text
-▣ Python
-▣ Java
-
-□ C++
-□ JavaScript
-□ Go
-□ Rust
-```
-
-## Data
-
-```text
-▣ Pandas
-▣ NumPy
-▣ SQL
-
-□ Spark
-□ Airflow
-□ Kafka
-```
-
-## AI & ML
-
-```text
-▣ Machine Learning
-▣ OpenCV
-
-□ Deep Learning
-□ LLM Applications
-□ MLOps
-```
-
-## Software Engineering
-
-```text
-□ Backend Development
-□ API Design
-□ Cloud Deployment
-□ System Design
-□ DevOps
-```
-
----
-
-# ⚡ PROJECT HUB
-
-### 🩷 Project 01
-
-```text
-TITLE:
-[ Add Project Name ]
-
-DESCRIPTION:
-[ Add Description ]
-
-STACK:
-[ Add Technologies ]
-
-STATUS:
-ACTIVE / COMPLETED
-
-LINK:
-[ Repository Link ]
-```
-
----
-
-### 🩷 Project 02
-
-```text
-TITLE:
-[ Add Project Name ]
-
-DESCRIPTION:
-[ Add Description ]
-
-STACK:
-[ Add Technologies ]
-
-STATUS:
-ACTIVE / COMPLETED
-
-LINK:
-[ Repository Link ]
-```
-
----
-
-### 🩷 Project 03
-
-```text
-TITLE:
-[ Add Project Name ]
-
-DESCRIPTION:
-[ Add Description ]
-
-STACK:
-[ Add Technologies ]
-
-STATUS:
-ACTIVE / COMPLETED
-
-LINK:
-[ Repository Link ]
-```
-
----
-
-### 🩷 Project 04
-
-```text
-TITLE:
-[ Add Project Name ]
-
-DESCRIPTION:
-[ Add Description ]
-
-STACK:
-[ Add Technologies ]
-
-STATUS:
-ACTIVE / COMPLETED
-
-LINK:
-[ Repository Link ]
-```
-
----
-
-# 🚀 CURRENT QUESTS
-
-```text
-[ ] Strengthen DSA
-
-[ ] Build Production-Grade Projects
-
-[ ] Explore Cloud Technologies
-
-[ ] Learn System Design
-
-[ ] Contribute To Open Source
-
-[ ] Expand AI/ML Knowledge
-```
-
----
-
-# 🌌 PROJECT UNIVERSE
-
-```text
-SOFTWARE PROJECTS
-│
-├── [ Future Project ]
-├── [ Future Project ]
-└── [ Future Project ]
-
-DATA PROJECTS
-│
-├── [ Future Project ]
-├── [ Future Project ]
-└── [ Future Project ]
-
-AI PROJECTS
-│
-├── [ Future Project ]
-├── [ Future Project ]
-└── [ Future Project ]
-
-EXPERIMENTS
-│
-├── [ Future Project ]
-└── [ Future Project ]
-```
-
----
-
-# 🔬 RESEARCH LAB
-
-### Areas I'm Curious About
-
-```text
-□ Computer Vision
-
-□ Artificial Intelligence
-
-□ Data Analytics
-
-□ Biomedical Technology
-
-□ Human-Centered Design
-
-□ Emerging Technologies
-```
-
----
-
-# 📚 LEARNING LOG
-
-### Currently Exploring
-
-```text
-→ [ Course / Topic ]
-
-→ [ Course / Topic ]
-
-→ [ Course / Topic ]
-```
-
-### Next On The Radar
-
-```text
-→ [ Future Topic ]
-
-→ [ Future Topic ]
-
-→ [ Future Topic ]
-```
-
----
-
-# 🛠️ TOOLKIT
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,mysql"/>
-
-</p>
-
----
-
-# 📈 COMMAND CENTER
+<!---------------------------------------------------------------------------->
+<!--  NEURAL LINK BADGES                                                      -->
+<!---------------------------------------------------------------------------->
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-FF4D9D?style=for-the-badge&labelColor=0B0B0F&color=0B0B0F&logoColor=FF4D9D)](YOUR_WEBSITE_LINK)&ensp;[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-6EE7FF?style=for-the-badge&labelColor=0B0B0F&color=0B0B0F&logoColor=6EE7FF)](YOUR_LINKEDIN_LINK)&ensp;[![Resume](https://img.shields.io/badge/◈_RESUME-FFB6D9?style=for-the-badge&labelColor=0B0B0F&color=0B0B0F&logoColor=FFB6D9)](YOUR_RESUME_LINK)&ensp;[![Email](https://img.shields.io/badge/◈_CONNECT-FF4D9D?style=for-the-badge&labelColor=0B0B0F&color=0B0B0F&logoColor=FF4D9D)](mailto:YOUR_EMAIL)
 
 </div>
 
----
+<br>
 
-# 🌠 FUTURE EXPANSION
+<!---------------------------------------------------------------------------->
+<!--  ░▒▓ BOOT SEQUENCE ▓▒░                                                  -->
+<!---------------------------------------------------------------------------->
 
-```text
-COMING SOON...
-
-□ Full Stack Applications
-
-□ Cloud Deployments
-
-□ Open Source Contributions
-
-□ Research Publications
-
-□ AI Products
-
-□ Technical Blogs
-
-□ Developer Portfolio
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  SYSTEM BOOT  ///  KEERTHANA_OS v3.0  ///  STATUS: ONLINE        ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  > IDENTITY     Biomedical Engineering · 3rd Year               ║
+║  > MISSION      Building software, AI systems & data products   ║
+║  > BASE         India                                            ║
+║                                                                  ║
+║  > PRIMARY      Software Engineering  ████████░░ active         ║
+║  > SECONDARY    Data Science          ███████░░░ active         ║
+║  > TERTIARY     Machine Learning      █████░░░░░ building       ║
+║  > UNLOCKING    Computer Vision       ████░░░░░░ training       ║
+║                                                                  ║
+║  [ all systems nominal — mission in progress ]                   ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
----
+<br>
 
-# 🔗 CONNECT
-
-```text
-Portfolio  → [ Link ]
-
-LinkedIn   → [ Link ]
-
-Email      → [ Email ]
-
-Resume     → [ Link ]
-```
-
----
+<!---------------------------------------------------------------------------->
+<!--  ░▒▓ SKILL TREE ▓▒░                                                     -->
+<!--  ▓ = unlocked  ░ = locked / on roadmap                                  -->
+<!---------------------------------------------------------------------------->
 
 <div align="center">
 
-### 🩷 BUILD. LEARN. ITERATE. REPEAT. 🩷
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ◈  SKILL TREE  ───────────────────────────── [ SEASON 03 ]     ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-<!--
-Spider Gwen Inspired Theme:
-Black + Pink + White + Cyan
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Keep this profile evolving.
-Replace placeholders as projects grow.
-Don't rush to fill everything at once.
--->
+```
+[ SOFTWARE ENGINEERING ]──────────────────────
+  ▓  Python          ████████░░  proficient
+  ▓  Java            ██████░░░░  intermediate
+  ░  C++             ░░░░░░░░░░  ··· locked
+  ░  Go              ░░░░░░░░░░  ··· locked
+  ░  Rust            ░░░░░░░░░░  ··· locked
+
+[ DATA LAYER ]────────────────────────────────
+  ▓  Pandas          ████████░░  proficient
+  ▓  NumPy           ████████░░  proficient
+  ▓  SQL             ██████░░░░  intermediate
+  ░  Spark           ░░░░░░░░░░  ··· locked
+  ░  Airflow         ░░░░░░░░░░  ··· locked
+  ░  Kafka           ░░░░░░░░░░  ··· locked
+```
+
+</td>
+<td width="50%" valign="top">
+
+```
+[ AI / ML MODULE ]────────────────────────────
+  ▓  Machine Learning  ██████░░░░  active
+  ▓  OpenCV            ████░░░░░░  training
+  ░  Deep Learning     ░░░░░░░░░░  ··· locked
+  ░  LLM Engineering   ░░░░░░░░░░  ··· locked
+  ░  MLOps             ░░░░░░░░░░  ··· locked
+
+[ CLOUD & DEVOPS ]────────────────────────────
+  ░  Docker          ░░░░░░░░░░  ··· locked
+  ░  AWS             ░░░░░░░░░░  ··· locked
+  ░  Azure           ░░░░░░░░░░  ··· locked
+  ░  Kubernetes      ░░░░░░░░░░  ··· locked
+  ░  CI/CD           ░░░░░░░░░░  ··· locked
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`▓ = unlocked` &nbsp;·&nbsp; `░ = on roadmap` &nbsp;·&nbsp; `bar depth = current level`
+
+</div>
+
+<br>
+
+<!---------------------------------------------------------------------------->
+<!--  ░▒▓ PROJECT HUB ▓▒░                                                    -->
+<!--  Fill each card as you publish. Delete cards you don't need yet.        -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ◈  PROJECT HUB  ──────────────── [ 0 / 5 SLOTS FILLED ]       ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<!── CARD 01 ──────────────────────────────────────────────────────>
+<td width="50%" valign="top">
+
+<div align="center">
+
+```
+┌──────────────────────────────────┐
+│  ◈  PROJECT  ·  01               │
+│  ─────────────────────────────── │
+│                                  │
+│   [ TITLE HERE ]                 │
+│                                  │
+│   Short one-liner about what     │
+│   this does and why it exists.   │
+│                                  │
+│   STATUS  ·  [ ACTIVE / WIP ]   │
+│   STACK   ·  [ Python | X | Y ] │
+│   TYPE    ·  [ ML / Data / App ] │
+│                                  │
+└──────────────────────────────────┘
+```
+
+![](https://img.shields.io/badge/status-WIP-FF4D9D?style=flat-square&labelColor=0B0B0F)
+&nbsp;[`→ repo`](#)&nbsp;&nbsp;[`→ demo`](#)
+
+</div>
+</td>
+
+<!── CARD 02 ──────────────────────────────────────────────────────>
+<td width="50%" valign="top">
+
+<div align="center">
+
+```
+┌──────────────────────────────────┐
+│  ◈  PROJECT  ·  02               │
+│  ─────────────────────────────── │
+│                                  │
+│   [ TITLE HERE ]                 │
+│                                  │
+│   Short one-liner about what     │
+│   this does and why it exists.   │
+│                                  │
+│   STATUS  ·  [ ACTIVE / WIP ]   │
+│   STACK   ·  [ Python | X | Y ] │
+│   TYPE    ·  [ ML / Data / App ] │
+│                                  │
+└──────────────────────────────────┘
+```
+
+![](https://img.shields.io/badge/status-WIP-FF4D9D?style=flat-square&labelColor=0B0B0F)
+&nbsp;[`→ repo`](#)&nbsp;&nbsp;[`→ demo`](#)
+
+</div>
+</td>
+</tr>
+
+<tr>
+
+<!── CARD 03 ──────────────────────────────────────────────────────>
+<td width="50%" valign="top">
+
+<div align="center">
+
+```
+┌──────────────────────────────────┐
+│  ◈  PROJECT  ·  03               │
+│  ─────────────────────────────── │
+│                                  │
+│   [ TITLE HERE ]                 │
+│                                  │
+│   Short one-liner about what     │
+│   this does and why it exists.   │
+│                                  │
+│   STATUS  ·  [ ACTIVE / WIP ]   │
+│   STACK   ·  [ Python | X | Y ] │
+│   TYPE    ·  [ ML / Data / App ] │
+│                                  │
+└──────────────────────────────────┘
+```
+
+![](https://img.shields.io/badge/status-WIP-FF4D9D?style=flat-square&labelColor=0B0B0F)
+&nbsp;[`→ repo`](#)&nbsp;&nbsp;[`→ demo`](#)
+
+</div>
+</td>
+
+<!── CARD 04 ──────────────────────────────────────────────────────>
+<td width="50%" valign="top">
+
+<div align="center">
+
+```
+┌──────────────────────────────────┐
+│  ◈  PROJECT  ·  04               │
+│  ─────────────────────────────── │
+│                                  │
+│   [ TITLE HERE ]                 │
+│                                  │
+│   Short one-liner about what     │
+│   this does and why it exists.   │
+│                                  │
+│   STATUS  ·  [ ACTIVE / WIP ]   │
+│   STACK   ·  [ Python | X | Y ] │
+│   TYPE    ·  [ ML / Data / App ] │
+│                                  │
+└──────────────────────────────────┘
+```
+
+![](https://img.shields.io/badge/status-WIP-FF4D9D?style=flat-square&labelColor=0B0B0F)
+&nbsp;[`→ repo`](#)&nbsp;&nbsp;[`→ demo`](#)
+
+</div>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!---------------------------------------------------------------------------->
+<!--  ░▒▓ ACTIVE MISSIONS ▓▒░                                                -->
+<!--  Tick boxes off as you complete them.  Add new ones every season.       -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ◈  ACTIVE MISSIONS  ─────────────────────── [ SEASON 03 ]     ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  MAIN QUEST                                                      ║
+║  [ ]  Master Data Structures & Algorithms                        ║
+║  [ ]  Build a production-grade backend system                    ║
+║  [ ]  Deploy to cloud  ·  AWS / Azure                            ║
+║                                                                  ║
+║  SIDE QUESTS                                                     ║
+║  [ ]  Complete a full Computer Vision project                    ║
+║  [ ]  Make a meaningful open source contribution                 ║
+║  [ ]  Publish first research work                                ║
+║                                                                  ║
+║  BONUS MISSION                                                   ║
+║  [ ]  [ Add your stretch goal here ]                             ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+<!---------------------------------------------------------------------------->
+<!--  ░▒▓ PROJECT UNIVERSE ▓▒░                                               -->
+<!--  As your repos grow, update the links next to each domain.              -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ◈  PROJECT UNIVERSE  ─────────────────────────────────────────║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+
+| &nbsp; | Domain | Mission Status | Access |
+|:---:|---|:---:|:---:|
+| `⬡` | **Software Engineering** | ![](https://img.shields.io/badge/ACTIVE-6EE7FF?style=flat-square&labelColor=0B0B0F) | [`browse →`](#) |
+| `⬡` | **Data & Analytics** | ![](https://img.shields.io/badge/ACTIVE-6EE7FF?style=flat-square&labelColor=0B0B0F) | [`browse →`](#) |
+| `⬡` | **AI / ML Systems** | ![](https://img.shields.io/badge/BUILDING-FF4D9D?style=flat-square&labelColor=0B0B0F) | [`browse →`](#) |
+| `⬡` | **Biomedical / HealthTech** | ![](https://img.shields.io/badge/PLANNED-FFB6D9?style=flat-square&labelColor=0B0B0F) | [`browse →`](#) |
+| `⬡` | **Cloud & DevOps** | ![](https://img.shields.io/badge/QUEUED-555555?style=flat-square&labelColor=0B0B0F) | [`browse →`](#) |
+
+</div>
+
+<br>
+
+<!---------------------------------------------------------------------------->
+<!--  ░▒▓ RESEARCH LAB ▓▒░                                                   -->
+<!--  Add papers or interests here as they emerge. Nothing is required yet.  -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ◈  RESEARCH LAB  ─────────────────────────────────────────────║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  INTERESTS                                                       ║
+║  ▸  [ e.g. Medical Image Analysis ]                              ║
+║     Short line on why this interests you.                        ║
+║                                                                  ║
+║  ▸  [ e.g. Biomedical Signal Processing ]                        ║
+║     Short line on why this interests you.                        ║
+║                                                                  ║
+║  ▸  [ e.g. AI in Healthcare ]                                    ║
+║     Short line on why this interests you.                        ║
+║                                                                  ║
+║  PUBLICATIONS  ·  none yet — watch this space                   ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+<!---------------------------------------------------------------------------->
+<!--  ░▒▓ STATS COMMAND CENTER ▓▒░                                           -->
+<!--  Replace YOUR_GITHUB_USERNAME everywhere below.                         -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ◈  STATS COMMAND CENTER  ─────────────────────────────────────║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0B0F&title_color=FF4D9D&icon_color=6EE7FF&text_color=CFCFCF&rank_icon=github&card_width=420)
+
+![Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0B0B0F&ring=FF4D9D&fire=FFB6D9&currStreakLabel=6EE7FF&sideLabels=6EE7FF&dates=CFCFCF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0B0F&title_color=FF4D9D&text_color=CFCFCF&card_width=420)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0B0B0F&color=6EE7FF&line=FF4D9D&point=FFB6D9&area=true&hide_border=true)
+
+</div>
+
+<br>
+
+<!---------------------------------------------------------------------------->
+<!--  ░▒▓ EXPANSION ROADMAP ▓▒░                                              -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ◈  EXPANSION ROADMAP  ────────────────────── [ COMING SOON ]  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  [ ]  Full stack applications deployed to production            ║
+║  [ ]  AI tools & products built and shipped                     ║
+║  [ ]  Open source contributions merged                          ║
+║  [ ]  Research publications submitted                           ║
+║  [ ]  Cloud-deployed systems with real users                    ║
+║  [ ]  System design case studies documented                     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+<!---------------------------------------------------------------------------->
+<!--  FOOTER                                                                  -->
+<!---------------------------------------------------------------------------->
+
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:0B0B0F,50:1a0a2e,100:0B0B0F&height=120&section=footer&text=always%20building.&fontSize=28&fontColor=FF4D9D&animation=twinkling&fontAlignY=55)
+
+<div align="center">
+
+`last updated · MONTH YEAR` &nbsp;·&nbsp; `season 03` &nbsp;·&nbsp; `mission: active`
+
+</div>
