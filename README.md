@@ -1,219 +1,265 @@
 <div align="center">
 
-# KEERTHANA K
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D6D,C9184A,590D22&height=120&section=header&text=KEERTHANA%20K&fontSize=38&fontColor=fff&fontAlignY=60&animation=fadeIn&fontFamily=Courier%20New" />
 
-### DATA SCIENCE • SOFTWARE ENGINEERING  • AI/ML 
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=FF4D9D&center=true&vCenter=true&width=500&lines=Building.;Learning.;Experimenting." />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![divider](https://capsule-render.vercel.app/api?type=rect\&color=FF4D9D\&height=2\&section=header)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=16&pause=1000&color=FF4D6D&center=true&vCenter=true&width=480&lines=Data+Science+%2F+Software+Engineering+%2F+AI-ML;Building.+Learning.+Experimenting.)
 
 </div>
 
-# STATUS
+<br/>
+
+---
+
+<br/>
+
+## STATUS
 
 ```diff
 + Currently Building
 + Exploring New Technologies
 + Open To Collaboration
-
 ! More Projects Loading...
 ```
 
-<br>
-
-# 🎮 SKILL TREE
-
-### LANGUAGES
-
-🩷 Python
-🩷 Java
-
-⬜ C++
-⬜ JavaScript
-⬜ Go
+<br/>
 
 ---
 
-### DATA
+<br/>
 
-🩷 Pandas
-🩷 NumPy
-🩷 SQL
-
-⬜ Spark
-⬜ Airflow
-⬜ Kafka
-
----
-
-### AI
-
-🩷 Machine Learning
-🩷 OpenCV
-
-⬜ Deep Learning
-⬜ MLOps
-⬜ LLM Applications
-
----
-
-### SOFTWARE
-
-⬜ Backend Development
-⬜ System Design
-⬜ Cloud Engineering
-⬜ DevOps
-
-<br>
-
-# PROJECT HUB
+## SKILL TREE
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="25%">
 
-###  PROJECT 01
-
-```yaml
-Name: 
-Description:
-Stack:
-Status:
+**LANGUAGES**
+```
+[+] Python
+[+] Java
+[ ] C++
+[ ] JavaScript
+[ ] Go
 ```
 
 </td>
+<td valign="top" width="25%">
 
-<td width="50%">
-
-###  PROJECT 02
-
-```yaml
-Name: MediAssist AI
-Description: An interactive bot that scans your blood analysis reports and draws insights while answering your questions related to it. Building it with more accuracy and pushing it to be a mobile application - product that can be used by anyone
-Stack: NLP, OCR, STreamlit, GroqAPI
-Status: Ongoing
+**DATA**
+```
+[+] Pandas
+[+] NumPy
+[+] SQL
+[ ] Spark
+[ ] Airflow
+[ ] Kafka
 ```
 
 </td>
-</tr>
+<td valign="top" width="25%">
 
-<tr>
-<td width="50%">
-
-### PROJECT 03
-
-```yaml
-Name: SpaceX data analytics 
-Description: An end-to-end data science project involving web scraping, EDA with SQL and data visualization - interactive dashboard and maps with trained ML algorithms for prediction and classification.
-Stack: Python, SQL, NumPy, Pandas, Plotly, Folium, Matplotlib, Seaborn
-Status: Completed as a capstone project
+**AI / ML**
+```
+[+] Machine Learning
+[+] OpenCV
+[ ] Deep Learning
+[ ] MLOps
+[ ] LLM Applications
 ```
 
 </td>
+<td valign="top" width="25%">
 
-<td width="50%">
-
-### PROJECT 04
-
-```yaml
-Name: Hypoglycemic tremor detection
-Description: A real-time signal acquisition from mpu6050 and classification of tremor and normal events using random forest and establishing this environment as a web application.
-Stack: Python, Javascript, HTML5, CSS, ML, FastAPI
-Status: Completed (Future scope  multimodal signals - Mobile app  - Alert user/hospitals)
+**SOFTWARE**
+```
+[ ] Backend Development
+[ ] System Design
+[ ] Cloud Engineering
+[ ] DevOps
 ```
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-# 🌌 PROJECT UNIVERSE
+---
 
-```text
-SOFTWARE
-│
-├── Project
-├── Project
-└── Project
+<br/>
 
-DATA SCIENCE
-│
-├── SpaceX data analytics
-├── House Price Analysis Dashboard
-└── Project
+## PROJECT HUB
 
-AI
-│
-├── MediAssist
-├── Posture AI Pro - with CV
-└── Project
+<table>
+<tr>
+<td width="50%" valign="top">
 
-EXPERIMENTS
-│
-├── Image processing and segmentation
-└── Signal processing
+### `PROJECT 01`
+
+```yaml
+Name        :
+Description :
+Stack       :
+Status      :
 ```
 
-<br>
+</td>
+<td width="50%" valign="top">
 
-# RESEARCH
+### `PROJECT 02`
 
-```text
-□ Research
-□ Experiments
-□ Publications
-□ Open Source
-□ Ideas
+```yaml
+Name        : MediAssist AI
+Description : An interactive bot that scans blood
+              analysis reports, draws insights, and
+              answers health-related queries. Being
+              built toward a mobile application
+              accessible to everyone.
+Stack       : NLP, OCR, Streamlit, Groq API
+Status      : Ongoing
 ```
 
-<br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-# QUEST LOG
+### `PROJECT 03`
 
-* [ ] Build Flagship Project
-* [ ] Explore System Design
-* [ ] Publish Technical Content
-* [ ] Contribute To Open Source
+```yaml
+Name        : SpaceX Data Analytics
+Description : End-to-end data science project
+              covering web scraping, EDA with SQL,
+              interactive dashboards and maps, with
+              trained ML models for prediction and
+              classification.
+Stack       : Python, SQL, NumPy, Pandas,
+              Plotly, Folium, Matplotlib, Seaborn
+Status      : Completed — Capstone Project
+```
 
-<br>
+</td>
+<td width="50%" valign="top">
 
-# COMMAND CENTER
+### `PROJECT 04`
+
+```yaml
+Name        : Hypoglycemic Tremor Detection
+Description : Real-time signal acquisition from
+              MPU6050 sensor; classifies tremor vs
+              normal events using Random Forest,
+              exposed as a web application.
+Stack       : Python, JavaScript, HTML5, CSS,
+              ML, FastAPI
+Status      : Completed
+              Future — Multimodal signals,
+              Mobile app, Alert system
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## PROJECT UNIVERSE
+
+```
+ROOT
+  │
+  ├── SOFTWARE
+  │     ├── Project
+  │     ├── Project
+  │     └── Project
+  │
+  ├── DATA SCIENCE
+  │     ├── SpaceX Data Analytics
+  │     ├── House Price Analysis Dashboard
+  │     └── Project
+  │
+  ├── AI
+  │     ├── MediAssist
+  │     ├── Posture AI Pro  (Computer Vision)
+  │     └── Project
+  │
+  └── EXPERIMENTS
+        ├── Image Processing & Segmentation
+        └── Signal Processing
+```
+
+<br/>
+
+---
+
+<br/>
+
+## RESEARCH
+
+```
+  [ ]  Research
+  [ ]  Experiments
+  [ ]  Publications
+  [ ]  Open Source
+  [ ]  Ideas
+```
+
+<br/>
+
+---
+
+<br/>
+
+## QUEST LOG
+
+- [ ] Build Flagship Project
+- [ ] Explore System Design
+- [ ] Publish Technical Content
+- [ ] Contribute To Open Source
+
+<br/>
+
+---
+
+<br/>
+
+## COMMAND CENTER
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical\&hide_border=true)
+<a href="https://github.com/YOUR_USERNAME">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF4D6D&icon_color=FF4D6D&text_color=CCCCCC&border_color=FF4D6D&hide_border=false&include_all_commits=true" />
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FF4D6D&text_color=CCCCCC&border_color=FF4D6D&hide_border=false" />
+</a>
 
 </div>
 
-<br>
+<br/>
 
+---
 
+<br/>
 
-<br>
-
-# 🔗 LINKS
+## LINKS
 
 ```yaml
-Portfolio:
-LinkedIn:
-Email: keerthanakumar2106@gmail.com
-Resume:
+Portfolio : 
+LinkedIn  : 
+Email     : keerthanakumar2106@gmail.com
+Resume    : 
 ```
 
-<br>
+<br/>
 
 <div align="center">
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D6D,C9184A,590D22&height=80&section=footer" />
 
 </div>
