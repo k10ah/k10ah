@@ -1,11 +1,14 @@
-<div align="center"> # KEERTHANA K ### DATA SCIENCE • SOFTWARE ENGINEERING • AI/ML <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=FF4D9D&center=true&vCenter=true&width=500&lines=Building.;Learning.;Experimenting." /> </div> <br> <div align="center"> ![divider](https://capsule-render.vercel.app/api?type=rect\&color=FF4D9D\&height=2\&section=header) </div> 
+<div align="center"> 
+# KEERTHANA K 
+### DATA SCIENCE • SOFTWARE ENGINEERING • AI/ML 
+  
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=FF4D9D&center=true&vCenter=true&width=500&lines=Building.;Learning.;Experimenting." /> 
+</div> 
 
-<br/>
+<br> 
+<div align="center"> ![divider](https://capsule-render.vercel.app/api?type=rect\&color=FF4D9D\&height=2\&section=header) 
 
----
-
-<br/>
-
+</div>
 ## STATUS
 
 ```diff
