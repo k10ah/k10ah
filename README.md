@@ -10,6 +10,6 @@ Im an ML enthusiast who loves telling stories drawn from big data. Im specialize
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=k10ah&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
