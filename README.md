@@ -1,5 +1,5 @@
 # About Me:
-Im an ML enthusiast who loves telling stories drawn from big data. Im specialized in working in healthcare domain with data science and image processing being my primary interests. I also work with building AI agents and recently explored NLP and LLM. I am open to collaborations and open source contributions. I am currently learning about Brain-Computer Interface and every skill that is needed for a software engineer to excel. I improve my DSA skills on a daily basis while actively engaging myself in research and experiments.
+Im an ML enthusiast who loves telling stories drawn from big data and someone who enjoys playing with applications and websites. Im specialized in working in healthcare domain with data science and image processing being my primary interests. I also work with building AI agents and recently explored NLP and LLM. I am open to collaborations and open source contributions. I am currently learning about Brain-Computer Interface and every skill that is needed for a software engineer to excel. I improve my DSA skills on a daily basis while actively engaging myself in research and experiments.
 
 
 ## Socials:
